@@ -1,2 +1,13 @@
+table ,td,th{
+	border:1px solid black;
+	border-collapse:collapse;
+}
+table{ width:100%;
+	 margin:0px;
+padding:0px;	 }
+th,td{  width:15%; }
+#td1,#td2,#td3, th{ text-align:left; }
 
-/* Your CSS Code here. */
+#tr2 , #tr3 ,#tr4{  text-align:right;}
+
+
